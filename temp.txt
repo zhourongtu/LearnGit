@@ -6,3 +6,4 @@ use storage section v5
 I will have a try for command of "git commit --amend" v6
 V7
 v8
+v9
