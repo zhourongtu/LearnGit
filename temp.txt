@@ -3,3 +3,5 @@ temp v2
 test v3
 temp apply stack v4
 use storage section v5
+I will have a try for command of "git commit --amend" v6
+V7
