@@ -1,3 +1,4 @@
 temp
 temp v2
 test v3
+temp apply stack v4
